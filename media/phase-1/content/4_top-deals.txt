@@ -8,5 +8,13 @@ Explore All Deals
 
 -------
 
-- The Complete 2024 Web Development Bootcamp, ($49.99), $9.99
-- Ultimate AWS Certified Solutions Architect Associate SAA-C03, ($49.99), $9.99
+- The Complete 2024 Web Development Bootcamp
+  - ($49.99), $9.99
+  - Sarah Lee
+  - 4.9
+  - 20,459+
+- Ultimate AWS Certified Solutions Architect Associate SAA-C03
+  - ($49.99), $9.99
+  - Sarah Lee
+  - 4.8
+  - 2,500+
