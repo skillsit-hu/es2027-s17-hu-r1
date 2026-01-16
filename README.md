@@ -32,7 +32,7 @@ A feladatot kétféle formában kell beadnod:
 
    a. A felhasználható eszközöket és technológiákat a feladatleírás tartalmazza.
 
-   b. **FONTOS:** Ne használj kódolást segítő AI eszközt vagy fejlesztői környezetet (Github Copilot, ChatGPT, Cursor stb.)! A válogató következő fordulóiban és a nemzetközi versenyen nem engedályezettek ilyen eszközök, így ezek használatát kerüld az első fordulóban is. A beadott munkákat erre szolgáló eszközzel ellenőrizni fogjuk, és akinél egyértelműen kiderül, hogy AI-t használt a kód elkészítéséhez, azt kizárjuk a versenyből.
+   b. **FONTOS:** Ne használj kódolást segítő AI eszközt vagy fejlesztői környezetet (Github Copilot, ChatGPT, Cursor stb.)! A válogató következő fordulóiban és a nemzetközi versenyen nem engedélyezettek ilyen eszközök, így ezek használatát kerüld az első fordulóban is. A beadott munkákat erre szolgáló eszközzel ellenőrizni fogjuk, és akinél egyértelműen kiderül, hogy AI-t használt a kód elkészítéséhez, azt kizárjuk a versenyből.
 
 ### Határidő
 
