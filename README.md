@@ -1,3 +1,5 @@
+!(EuroSkills Düsseldorf 2027 nemzeti válogató)[/assets/es2027-s17-r1-cover.webp]
+
 # EuroSkills Düsseldorf 2027 nemzeti válogató, Skill 17 (Web Technologies)
 
 ## 1. forduló
